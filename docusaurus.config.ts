@@ -82,9 +82,6 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-    mermaid: {
-      theme: {light: 'neutral', dark: 'forest'},
-    },
   } satisfies Preset.ThemeConfig,
     markdown: {
       mermaid: true,
