@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+hector:
+  name: Hector Oliveira
+  title: Cybersecurity - Blueops
+  url: https://github.com/haoliveira-mb
+  image_url: https://github.com/haoliveira-mb.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+atila:
+  name: Átila Santos
+  title: Cybersecurity - BlueOps & CloudSec
+  url: https://github.com/atilasantos-mb
+  image_url: https://github.com/atilasantos-mb.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+doug:
+  name: Douglas Oliveira
+  title: Cybersecurity - BlueOps & CloudSec
+  url: https://github.com/douglasoliveira-mb
+  image_url: https://github.com/douglasoliveira-mb.png
