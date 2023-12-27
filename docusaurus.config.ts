@@ -79,8 +79,8 @@ const config: Config = {
       copyright: `Copyright © ${new Date().getFullYear()} 2TM Group. Built with Docusaurus.`,
     },
     prism: {
-      theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
+      theme: prismThemes.vsLight,
+      darkTheme: prismThemes.oceanicNext,
     },
   } satisfies Preset.ThemeConfig,
     markdown: {
